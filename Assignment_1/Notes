@@ -1,0 +1,37 @@
+Main component of a message bus is its Daemon bus component which manages its connections and forwards messgaes through message queues.
+
+D bus reference:- http://www.freedesktop.org/wiki/Software/DBusBindings/
+
+needed to develop:
+
+1)  a device driver for shared queues which performs the basic enqueue and dequeue operations and records the accumulated queuing time (a      _   queueing time is the elapse time between enqueue and dequeue operations) 
+
+2)  A test program that initiates multiple thread to accessthe shared queues.
+
+
+name of device driver squeue.
+
+
+bus_out_q1
+bus_in_q
+bus_out_q2
+bus_out_q3
+ are device files created 
+
+
+Each message is represented by a message id, source and destination ids , an accumulated queueing time , and a variable -length character string of maximal length 80.
+
+
+queuing time is computed by :
+When a message is dequeued, its queueing time is computed by the driver based on the Time Stamp Counter (TSC) values of the enqueue and dequeue instants. 
+
+The accumulated queueing time of a message is the total queueing time since its first enqueue operation. 
+
+operations to be implemented in Device Driver:
+open( queue) --for opening the device  
+write --to enqueue a message to the device returns -1 or EINVAL
+read to dequeue the message.
+release  -- release the file structure
+
+
+

@@ -1,0 +1,13 @@
+i2ceeprom.c:
+its the driver file for eeprom writing on i2c bus.
+main_2.c:
+test file for testing i2ceeprom driver. 
+
+i2c Driver fnctionality:
+
+reading and writing to eeprom via i2c bus.
+erasing eeprom data.
+setting and getting current page pointer.
+getting status of eeprom - if its busy will return EBUSY
+
+run  'make' to generate i2ceeprom.ko and test as the application.  

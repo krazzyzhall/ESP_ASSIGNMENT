@@ -1,0 +1,5 @@
+task 1 is to show setjump long jump functionality
+here main function will keep on waiting for mouse click and anther thread that is computing will continue computing as soon as the click is detected it will longjump to the computation and will display the computation and will return back through second long jump.
+
+giver full path of the mouse file e.g
+./task_1 /dev/input/mouse1

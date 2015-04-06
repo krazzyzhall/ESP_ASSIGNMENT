@@ -1,0 +1,84 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x8007000e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 9.15.10.1666]
+    Renderer: Intel(R) Sandybridge Mobile
+    Vendor:   Intel
+    VRAM:     64 MB (via fallback)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: Z:\home\esp\ESP_598\LAB\Assignment_4\TCPControl_Nov10\TCPControl\TCPControl2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\home\esp\ESP_598\LAB\Assignment_4\TCPControl_Nov10\TCPControl\TCPControl2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Crash!!!
+SymInit: Symbol-SearchPath: '.;Z:\home\esp\ESP_598\LAB\Assignment_4\TCPControl_Nov10\TCPControl;Z:\home\esp\ESP_598\LAB\Assignment_4\TCPControl_Nov10\TCPControl;C:\windows;C:\windows\system32;SRV*c:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'esp'
+OS-Version: 6.2.9200 ( ) 0x0-0x1
+Z:\home\esp\ESP_598\LAB\Assignment_4\TCPControl_Nov10\TCPControl\TCPControl2.exe:TCPControl2.exe (00400000), size: 12214272 (result: 0), SymType: '-nosymbols-', PDB: 'Z:\home\esp\ESP_598\LAB\Assignment_4\TCPControl_Nov10\TCPControl\TCPControl2.exe', fileVersion: 4.5.3.26353
+C:\windows\system32\ntdll.dll:ntdll.dll (7BC10000), size: 831488 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\ntdll.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\KERNEL32.dll:KERNEL32.dll (7B810000), size: 2404352 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\KERNEL32.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\hid.dll:hid.dll (7EFF0000), size: 65536 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\hid.dll', fileVersion: 10.0.0.0
+C:\windows\system32\ws2_32.dll:ws2_32.dll (7EBD0000), size: 176128 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\ws2_32.dll', fileVersion: 5.1.2600.5512
+C:\windows\system32\user32.dll:user32.dll (7EA80000), size: 1331200 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\user32.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\gdi32.dll:gdi32.dll (7E960000), size: 1093632 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\gdi32.dll', fileVersion: 10.0.0.0
+C:\windows\system32\advapi32.dll:advapi32.dll (7E8F0000), size: 385024 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\advapi32.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\version.dll:version.dll (7E8D0000), size: 49152 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\version.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\ole32.dll:ole32.dll (7E7A0000), size: 1187840 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\ole32.dll', fileVersion: 10.0.0.0
+C:\windows\system32\rpcrt4.dll:rpcrt4.dll (7E710000), size: 483328 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\rpcrt4.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\shlwapi.dll:shlwapi.dll (7E6A0000), size: 413696 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\shlwapi.dll', fileVersion: 6.0.2800.1692
+C:\windows\system32\shell32.dll:shell32.dll (7E470000), size: 2207744 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\shell32.dll', fileVersion: 5.0.3900.6975
+C:\windows\system32\comctl32.dll:comctl32.dll (7E360000), size: 1015808 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\comctl32.dll', fileVersion: 5.81.4704.1100
+C:\windows\system32\opengl32.dll:opengl32.dll (7E260000), size: 987136 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\opengl32.dll', fileVersion: 5.1.2600.2082
+C:\windows\system32\winmm.dll:winmm.dll (7E190000), size: 729088 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\winmm.dll'
+C:\windows\system32\msacm32.dll:msacm32.dll (7E160000), size: 163840 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\msacm32.dll'
+C:\windows\system32\oleaut32.dll:oleaut32.dll (7E040000), size: 1167360 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\oleaut32.dll', fileVersion: 6.0.6001.18000
+C:\windows\system32\imm32.dll:imm32.dll (7E010000), size: 94208 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\imm32.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\dnsapi.dll:dnsapi.dll (7DFF0000), size: 73728 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\dnsapi.dll', fileVersion: 5.2.3790.4318
+C:\windows\system32\netapi32.dll:netapi32.dll (7DF90000), size: 118784 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\netapi32.dll'
+C:\windows\system32\iphlpapi.dll:iphlpapi.dll (7DF60000), size: 131072 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\iphlpapi.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\WINHTTP.dll:WINHTTP.dll (76080000), size: 327680 (result: 0), SymType: '-nosymbols-', PDB: 'C:\windows\system32\WINHTTP.dll', fileVersion: 5.1.2600.1188
+C:\windows\system32\msvcrt.dll:msvcrt.dll (7DED0000), size: 565248 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\msvcrt.dll', fileVersion: 7.0.2600.2180
+C:\windows\system32\winex11.drv:winex11.drv (7DCA0000), size: 561152 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\winex11.drv', fileVersion: 10.0.0.0
+C:\windows\system32\uxtheme.dll:uxtheme.dll (7DA90000), size: 196608 (result: 0), SymType: 'DIA', PDB: 'C:\windows\system32\uxtheme.dll', fileVersion: 10.0.0.0
+Z:\home\esp\ESP_598\LAB\Assignment_4\TCPControl_Nov10\TCPControl\TCPControl2_Data\Mono\mono.dll:mono.dll (10000000), size: 2289664 (result: 0), SymType: '-nosymbols-', PDB: 'Z:\home\esp\ESP_598\LAB\Assignment_4\TCPControl_Nov10\TCPControl\TCPControl2_Data\Mono\mono.dll'
+C:\windows\system32\psapi.dll:psapi.dll (F73C0000), size: 65536 (result: 87), SymType: '-unknown-', PDB: '', fileVersion: 5.1.2600.3264
+C:\windows\system32\mswsock.dll:mswsock.dll (F73B0000), size: 49152 (result: 87), SymType: '-unknown-', PDB: '', fileVersion: 4.0.0.0
+C:\windows\system32\d3d9.dll:d3d9.dll (F7330000), size: 200704 (result: 87), SymType: '-unknown-', PDB: '', fileVersion: 5.3.1.904
+C:\windows\system32\wined3d.dll:wined3d.dll (F6810000), size: 1212416 (result: 87), SymType: '-unknown-', PDB: '', fileVersion: 10.0.0.0
+C:\windows\system32\wbemprox.dll:wbemprox.dll (F72D0000), size: 159744 (result: 87), SymType: '-unknown-', PDB: ''
+C:\windows\system32\dxgi.dll:dxgi.dll (F7300000), size: 131072 (result: 87), SymType: '-unknown-', PDB: '', fileVersion: 6.0.6000.16386
+C:\windows\system32\mmdevapi.dll:mmdevapi.dll (F7250000), size: 102400 (result: 87), SymType: '-unknown-', PDB: ''
+C:\windows\system32\winepulse.drv:winepulse.drv (F7230000), size: 94208 (result: 87), SymType: '-unknown-', PDB: ''
+C:\windows\system32\dsound.dll:dsound.dll (F5340000), size: 249856 (result: 87), SymType: '-unknown-', PDB: '', fileVersion: 5.3.1.904
+C:\windows\system32\dbghelp.dll:dbghelp.dll (F51A0000), size: 393216 (result: 87), SymType: '-unknown-', PDB: '', fileVersion: 5.1.2600.3264
+
+========== OUTPUTING STACK TRACE ==================
+
+(0x005160B7) (tcpcontrol2): (filename not available): (function-name not available) + 0x0
+(0x00514C0D) (tcpcontrol2): (filename not available): (function-name not available) + 0x0
+(0x005AFCA9) (tcpcontrol2): (filename not available): (function-name not available) + 0x0
+(0x005AFDFE) (tcpcontrol2): (filename not available): (function-name not available) + 0x0
+(0x005AFE55) (tcpcontrol2): (filename not available): (function-name not available) + 0x0
+(0x0050AC4A) (tcpcontrol2): (filename not available): (function-name not available) + 0x0
+(0x0050AF3A) (tcpcontrol2): (filename not available): (function-name not available) + 0x0
+(0x0050B431) (tcpcontrol2): (filename not available): (function-name not available) + 0x0
+(0x0050B6C5) (tcpcontrol2): (filename not available): (function-name not available) + 0x0
+(0x005CF7C2) (tcpcontrol2): (filename not available): (function-name not available) + 0x0
+(0x004079F3) (tcpcontrol2): (filename not available): (function-name not available) + 0x0
+(0x0040FD13) (tcpcontrol2): (filename not available): (function-name not available) + 0x0
+(0x0041035D) (tcpcontrol2): (filename not available): (function-name not available) + 0x0
+(0x0057E538) (tcpcontrol2): (filename not available): (function-name not available) + 0x0
+(0x005F6549) (tcpcontrol2): (filename not available): (function-name not available) + 0x0
+(0x00861158) (tcpcontrol2): (filename not available): (function-name not available) + 0x0
+(0x00896030) (tcpcontrol2): (filename not available): (function-name not available) + 0x0
+(0x7B85E5CC) (kernel32): (filename not available): call_process_entry + 0xc
+(0x7B85F653) (kernel32): (filename not available): (function-name not available) + 0x0
+(0x7BC799B0) (ntdll): (filename not available): call_thread_func_wrapper + 0xc
+(0x7BC7C93D) (ntdll): (filename not available): call_thread_func + 0x7d
+(0x7BC7998E) (ntdll): (filename not available): RtlRaiseException + 0x22
+(0x7BC4E8FE) (ntdll): (filename not available): call_dll_entry_point + 0x7ee
+(0xF75CA50D) ((module-name not available)): (filename not available): (function-name not available) + 0x0
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****

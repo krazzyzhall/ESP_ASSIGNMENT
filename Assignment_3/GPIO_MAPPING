@@ -1,0 +1,6 @@
+SPIMUX  
+      gpio_cs  - gpio42  -10
+      gpio_mosi- gpio43  -11
+      gpio_miso- gpio54  -12
+      gpio_sck - gpio55  -13
+

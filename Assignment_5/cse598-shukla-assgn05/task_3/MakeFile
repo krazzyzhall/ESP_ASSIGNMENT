@@ -1,0 +1,2 @@
+gcc -pthread -o task_3 task_3.c
+gcc -pthread -o task_3_b task_3_b.c
