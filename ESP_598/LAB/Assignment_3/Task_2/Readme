@@ -1,0 +1,5 @@
+run make to generate SPI_USER_APP pulse.o and myled_mat.o
+
+at distance greater than 50 shows a rocket launching
+at distance <50 and greater 20 shows rocket in flight
+at distance <20 shows a blast
